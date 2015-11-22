@@ -1,4 +1,4 @@
-![1st graph to review](https://raw.githubusercontent.com/myphan92/PUI2015_mphan/master/HW8/meo342.png)
+![1st graph to review](meo342.png)
 
 ###Review 
 
