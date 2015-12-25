@@ -1,0 +1,67 @@
+good job on the reviews 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+the choice of plotting data instead of a histogram is esthetically appealing but largely compromises readability and causes ambiguity
+
+the datapoints hide a pattern in the data: the age increases more significantly for women, peaking around 1980, but it is hard to tell.
+
+the green foreground datapoints hide the background blue datapoints -> confusion and ambiguity. 
+
+color are compliant with most color blind prescriptions
+
+the datapoints without transparency or edges blend at the bottom. it is not a crucial problem since this plot is not meant to be read point by point however.
+
+
+tick labels too small
+
+title to verbose: that level of description belongs to the caption. title should be succinct
+
+
+
+
+NOTES ON  THE PLOTS YOU REVIEWED
+===========================================
+
+
+
+lanimc
+============
+
+the points are green but the legend is blue.
+
+it is not clear what the legend means: it probably means the size corresponds to the duration, but this is just an educated guess as the nothing in the legend refers to size
+
+the color is unexplained and appears to be redundant with the size
+
+tick labels are way too small
+
+large values on the y axis should be substituted by a compact notation (eg using units of 1000 trips)
+
+
+
+
+sv1379
+============
+
+
+the 3d as usual makes comparison difficult. additionally 3d bind distort the perception: we should compare differences in height but we are left with the impression given by t he difference in volumes
+
+the color is redundant with the year 
+
+tick labels too small
+
+the cause of death axis labels are offset with respect to the variable
+
+typo in the title (parenthesis close that was never open)
+
+
+meo342
+============
+
+colors are nicely separable by color blind people
+
+notation on the y axis is readable and major and minor ticks help readability but displaying a lot of info but avoiding crowdedness
+
+the background color for the legend is distracting capturing too much attention
